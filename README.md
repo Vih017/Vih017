@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Vitoria Ferreira
 
-- 🔭 Hoje trabalho como atendente, mas futuramente espero ser uma programadora FullStack
-- 🌱 Faço faculdade de Analise e Desenvolvimento de Sistema
+- 🔭 Futuramente quero ser uma grande programadora FullStack
+- 🌱 Tecnologo em Analise e Desenvolvimento de Sistema
 - 📫 Contate-me no email: vi.ferreira012@gmail.com
 - 😄 Pronouns: ela/dela
 <div align="center">
